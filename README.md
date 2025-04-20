@@ -58,8 +58,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/teguhafrianda/Kgiant-web-laravel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teguhafrianda&repo=Kgiant-web-laravel&theme=gruvbox_light&hide_border=true" />
+      <a href="https://github.com/teguhafrianda/aptbagus-web-laravel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teguhafrianda&repo=aptbagus-web-laravel&theme=gruvbox_light&hide_border=true" />
       </a>
     </td>
   </tr>
