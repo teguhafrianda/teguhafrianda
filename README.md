@@ -7,16 +7,18 @@
 <br />
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Chasier Kgiant Playground**  
-- 🌱 I’m currently learning **Laravel, PHP, and Golang**  
-- 👯 I’m collaborating on **[Next Level Course](https://github.com/NextLevelCourses)**  
-- 💬 Ask me about **Laravel, Clean Architecture, or DDD**  
-- 📫 Reach me at **teguhafrianda8@gmail.com**  
-- ⚡ Fun fact: *AI can be your best coding buddy — if your brief is clear!*
+
+- 🔭 I’m currently working on **Chasier Kgiant Playground**
+- 🌱 I’m currently learning **Laravel, PHP, and Golang**
+- 👯 I’m collaborating on **[Next Level Course](https://github.com/NextLevelCourses)**
+- 💬 Ask me about **Laravel, Clean Architecture, or DDD**
+- 📫 Reach me at **teguhafrianda8@gmail.com**
+- ⚡ Fun fact: _AI can be your best coding buddy — if your brief is clear!_
 
 ---
 
 ## 🌐 Socials:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/atashikara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teguhafrianda)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@teguhafrianda)
@@ -25,6 +27,7 @@
 ---
 
 # 💻 Tech Stack:
+
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -40,6 +43,7 @@
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=teguhafrianda&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=teguhafrianda&theme=gruvbox_light&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhafrianda&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -56,5 +60,3 @@
 </a>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
