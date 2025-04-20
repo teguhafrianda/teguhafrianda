@@ -52,12 +52,15 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/NextLevelCourses/nlc-web-laravel">
+<a href="https://github.com/NextLevelCourses/nlc-web-laravel" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NextLevelCourses&repo=nlc-web-laravel&theme=gruvbox_light" />
 </a>
-https://github.com/teguhafrianda/Kgiant-web-laravel
-<a href="https://github.com/teguhafrianda/Kgiant-web-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teguhafrianda&repo=kgiantkasir&theme=gruvbox_light" />
+
+<br/>
+
+<a href="https://github.com/teguhafrianda/Kgiant-web-laravel" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teguhafrianda&repo=Kgiant-web-laravel&theme=gruvbox_light" />
 </a>
+
 
 ---
