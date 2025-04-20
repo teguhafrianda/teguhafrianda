@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://github.com/teguhafrianda">
-    ![Pink and Beige Feminine Like Comment Save Share Instagram Post (1)](https://github.com/user-attachments/assets/1cdec31d-2915-4627-a333-ae2375032411)
-
-<!--     <img width="80%" alt="Hi, I'm Teguh Afrianda" src="./assets/gh-readme-header.png" /> -->
+ <img width="80%" alt="Hi, I'm Teguh Afrianda" src="https://github.com/user-attachments/assets/1cdec31d-2915-4627-a333-ae2375032411" />
   </a>
 </p>
 
