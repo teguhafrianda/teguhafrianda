@@ -1,31 +1,51 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Teguh Afrianda</h1>
 <h3 align="center">A passionate and purpose-driven Web Developer with 1 year of experience crafting clean, scalable, and maintainable web applications.</h3>
 
-- 🔭 I’m currently working on [Chasier Kgiant Playground](-)
+- 🔭 I’m currently working on **Chasier Kgiant Playground**
+- 🌱 I’m currently learning **Laravel, PHP, and Golang**
+- 👯 I’m collaborating on **[Next Level Course](https://github.com/NextLevelCourses)**
+- 💬 Ask me about **Laravel, Clean Architecture, or DDD**
+- 📫 Reach me at **teguhafrianda8@gmail.com**
+- ⚡ Fun fact: *AI can be your best coding buddy — if your brief is clear!*
 
-- 🌱 I’m currently learning **Laravel, PHP, Golang**
+---
 
-- 👯 I’m looking to collaborate on [Next Level Course](https://github.com/NextLevelCourses)
+## 🧰 Tech Stack & Tools
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 💬 Ask me about **Laravel**
+---
 
-- 📫 How to reach me **teguhafrianda8@gmail.com**
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teguhafrianda)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@teguhafrianda)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/teguhafrianda)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/atashikara)
 
-- ⚡ Fun fact **AI is like an apprenticeship assistant: if the briefing is clear, it can help quickly. But if it's not clear, even......**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 📈 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teguhafrianda/teguhafrianda/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teguhafrianda/teguhafrianda/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/teguhafrianda/teguhafrianda/output/github-snake.svg" />
+</picture>
+
 <p align="left">
-<a href="https://linkedin.com/in/teguhafrianda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teguhafrianda" height="30" width="40" /></a>
-<a href="https://medium.com/@teguhafrianda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teguhafrianda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/teguhafrianda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teguhafrianda" height="30" width="40" /></a>
-<a href="https://discord.gg/atashikara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atashikara" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teguhafrianda&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teguhafrianda&show_icons=true&locale=en&layout=compact" alt="teguhafrianda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teguhafrianda&show_icons=true&locale=en" alt="teguhafrianda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teguhafrianda&" alt="teguhafrianda" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teguhafrianda&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teguhafrianda&" alt="GitHub Streak" />
+</p>
