@@ -20,7 +20,7 @@
 
 🚀 About Me
 
-- 🔭 Currently working on: **Kgiant Playground Chasier App**
+- 🔭 Currently working on: **Kgiant Kasir App Web Laravel**
 - 🌱 Actively learning: **Laravel, PHP, Golang**
 - 🤝 Collaborating with: [Next Level Course](https://github.com/NextLevelCourses)
 - 💬 Interested in: **Laravel, Clean Architecture, Domain-Driven Design (DDD)**
