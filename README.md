@@ -1,28 +1,34 @@
+
 <p align="center">
   <a href="https://github.com/teguhafrianda">
-    <img width="70%" alt="Hi, I'm Teguh Afrianda" src="https://github.com/user-attachments/assets/37e025b1-30be-4089-8ad8-0705ebbfe363" />
+    <img width="70%" alt="Hi, I'm Teguh Afrianda" src="https://github.com/user-attachments/assets/09205fe9-d37a-40e1-b8d0-e0ae9863a15e" />
   </a>
 </p>
 
-<br/>
+<h2 align="center">Hi 👋, I'm Teguh Afrianda</h2>
+<p align="center">A passionate Laravel Web Developer from Indonesia 🇮🇩</p>
 
-## 👋 About Me
-
-- 🔭 Working on: **Kgiant Playground Chasier App**
-- 🌱 Learning: **Laravel, PHP, Golang**
-- 🤝 Collaborating: [Next Level Course](https://github.com/NextLevelCourses)
-- 📫 Reach me: **teguhafrianda8@gmail.com**
-- 💬 Topics: Laravel, Clean Architecture, DDD
-
----
-
-## 🌐 Connect
-
-[Discord](https://discord.gg/atashikara) • [LinkedIn](https://linkedin.com/in/teguhafrianda) • [YouTube](https://youtube.com/@teguhafrianda) • [Email](mailto:teguhafrianda8@gmail.com)
+<p align="center">
+  🌐 <strong>Connect with me:</strong><br>
+  <a href="https://discord.gg/atashikara">Discord</a> • 
+  <a href="https://linkedin.com/in/teguhafrianda">LinkedIn</a> • 
+  <a href="https://youtube.com/@teguhafrianda">YouTube</a> • 
+  <a href="mailto:teguhafrianda8@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+🚀 About Me
+
+- 🔭 Currently working on: **Kgiant Playground Chasier App**
+- 🌱 Actively learning: **Laravel, PHP, Golang**
+- 🤝 Collaborating with: [Next Level Course](https://github.com/NextLevelCourses)
+- 💬 Interested in: **Laravel, Clean Architecture, Domain-Driven Design (DDD)**
+- 📫 Reach me at: **teguhafrianda8@gmail.com**
+  
+---
+
+💻 Tech Stack
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -34,17 +40,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teguhafrianda&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=teguhafrianda&theme=gruvbox_light&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teguhafrianda&theme=gruvbox_light&hide_border=true&layout=compact" width="32%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
 <table>
   <tr>
