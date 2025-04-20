@@ -1,51 +1,15 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+# 💫 About Me:
+- 🔭 I’m currently working on **Chasier Kgiant Playground**<br>- 🌱 I’m currently learning **Laravel, PHP, and Golang**<br>- 👯 I’m collaborating on **[Next Level Course](https://github.com/NextLevelCourses)**<br>- 💬 Ask me about **Laravel, Clean Architecture, or DDD**<br>- 📫 Reach me at **teguhafrianda8@gmail.com**<br>- ⚡ Fun fact: *AI can be your best coding buddy — if your brief is clear!*
 
-<h1 align="center">Hi 👋, I'm Teguh Afrianda</h1>
-<h3 align="center">A passionate and purpose-driven Web Developer with 1 year of experience crafting clean, scalable, and maintainable web applications.</h3>
 
-- 🔭 I’m currently working on **Chasier Kgiant Playground**
-- 🌱 I’m currently learning **Laravel, PHP, and Golang**
-- 👯 I’m collaborating on **[Next Level Course](https://github.com/NextLevelCourses)**
-- 💬 Ask me about **Laravel, Clean Architecture, or DDD**
-- 📫 Reach me at **teguhafrianda8@gmail.com**
-- ⚡ Fun fact: *AI can be your best coding buddy — if your brief is clear!*
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/atashikara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/teguhafrianda) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@teguhafrianda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teguhafrianda8@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=teguhafrianda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=teguhafrianda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhafrianda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧰 Tech Stack & Tools
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teguhafrianda)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@teguhafrianda)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/teguhafrianda)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/atashikara)
-
----
-
-## 📈 GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teguhafrianda/teguhafrianda/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teguhafrianda/teguhafrianda/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/teguhafrianda/teguhafrianda/output/github-snake.svg" />
-</picture>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teguhafrianda&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teguhafrianda&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teguhafrianda&" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
