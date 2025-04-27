@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/teguhafrianda">
-    <img width="70%" alt="Hi, I'm Teguh Afrianda" src="https://github.com/user-attachments/assets/09205fe9-d37a-40e1-b8d0-e0ae9863a15e" />
+    <img width="70%" alt="Hi, I'm Teguh Afrianda" src="https://github.com/user-attachments/assets/75f53405-2b30-411a-b9c0-898a30114128" />
   </a>
 </p>
 
