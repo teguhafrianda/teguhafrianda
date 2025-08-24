@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/teguhafrianda">
     <img width="70%" alt="Hi, I'm Teguh Afrianda" src="https://github.com/user-attachments/assets/da087d57-af56-41e8-bd5e-74819cd12b64" />
@@ -48,7 +47,7 @@
 
 ---
 
- 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
   <tr>
@@ -69,3 +68,11 @@
     </td>
   </tr>
 </table>
+
+---
+
+📊 **My GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teguhafrianda&show_icons=true&theme=gruvbox_light&hide_border=false" alt="GitHub Stats" />
+</p>
